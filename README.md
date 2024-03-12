@@ -49,14 +49,14 @@ Las herramientas están divididas por secciones:
 
 Asegúrese de que la instalación de los paquetes sea dentro de un _virtual environment_.
 
-\```bash
+```bash
 git clone https://github.com/MachineMindCore/DataFluids.git
 cd DataFluids
 pip install -r requirements.txt
-\```
+```
 
 Una vez estén listos los requisitos solo basta con ejecutar el cliente de Streamlit.
 
-\```bash
+```bash
 streamlit run main.py
-\```
+```
