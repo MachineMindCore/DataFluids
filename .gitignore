@@ -1,0 +1,13 @@
+# Ignore all folders starting with a dot
+.*/*
+.*/*
+.*/*
+
+# Python cache files
+*.pyc
+__pycache__
+
+# Python binary files
+*.pyd
+*.pyo
+*.pyc
